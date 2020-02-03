@@ -8,6 +8,7 @@ Object under observation is behind bushes
 <img width="615" src="Output2.png">
 
 Objects viewed from sky
+
 <img width="615" src="Output3.png">
                                  
 ## Background Subtraction:
