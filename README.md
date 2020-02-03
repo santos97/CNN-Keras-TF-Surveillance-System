@@ -1,6 +1,11 @@
 # CNN-Keras-TF-Surveillance-System
 Detect motion for input video source using background subtraction algorithm. Then dynamically extract the images from the video source as test images. This images are fed to trained model "64x3-CNN.model" to predict if the motion is caused by Humans or not. Then display alert message on Security feed.
 
+
+#Output
+Night Vision vs Thermal
+
+<img width="615" src="Output2.png">
 ## Background Subtraction:
 <img width="628" alt="Screenshot 2019-05-21 at 10 03 21 PM" src="https://user-images.githubusercontent.com/39873118/58114596-b25b5c00-7c15-11e9-83dc-6aa3ff209e26.png">
 
