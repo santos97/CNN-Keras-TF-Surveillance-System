@@ -3,9 +3,10 @@ Detect motion for input video source using background subtraction algorithm. The
 
 
 #Output
-Night Vision vs Thermal
 
+##Night Vision vs Thermal
 <img width="615" src="Output2.png">
+
 ## Background Subtraction:
 <img width="628" alt="Screenshot 2019-05-21 at 10 03 21 PM" src="https://user-images.githubusercontent.com/39873118/58114596-b25b5c00-7c15-11e9-83dc-6aa3ff209e26.png">
 
