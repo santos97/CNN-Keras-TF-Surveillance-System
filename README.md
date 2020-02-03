@@ -6,7 +6,6 @@ Detect motion for input video source using background subtraction algorithm. The
 ## Night Vision vs Thermal:
 Object under observation is behind bushes
 <img width="615" src="Output2.png">
-
 Objects viewed from sky
 <img width="615" src="Output3.png">
                                  
